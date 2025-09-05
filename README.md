@@ -12,7 +12,7 @@ This is a FastAPI-based chatbot API for Boss Wallah courses. It supports:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SachinYadav666/Boss-Wallah-Chatbot.git
 cd boss-wallah-chatbot
 ```
 
